@@ -103,7 +103,7 @@ const Page = () => {
                     name="description"
                     className="col-span-3"
                     placeholder="Description"
-                    // required
+                    required
                   />
                 </div>
               </div>
